@@ -1,0 +1,42 @@
+.intd{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #cb1be2;
+}
+.intd {
+  position: relative;
+  display: inline-block;
+  padding: 0 55px;
+}
+
+.intd:before, .intd:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  display: inline-block;
+  width: 45px;
+  height: 1px;
+  background-color: black;
+}
+
+.intd:before {
+  left:0;
+}
+.intd:after {
+  right: 0;
+}
+.mt-0{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+mark{
+    background-color: #e2e2e2;
+}
+h5 {
+font-family: 'Kosugi Maru', sans-serif;
+}
+.mark {
+  color: #364e96;/*文字色*/
+  padding: 0.5em 0;/*上下の余白*/
+  border-top: solid 2px #23d1e0;/*上線*/
+  border-bottom: solid 2px #23d1e0;/*下線*/
+  background-color: white;
+}

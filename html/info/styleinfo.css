@@ -1,0 +1,26 @@
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+}
+hr {
+  height: 1px;
+  background: #bbb;
+  background-image: -webkit-linear-gradient(left, #eee, #777, #eee);
+  background-image: -moz-linear-gradient(left, #eee, #777, #eee);
+  background-image: -ms-linear-gradient(left, #eee, #777, #eee);
+  background-image: -o-linear-gradient(left, #eee, #777, #eee);
+}
+.incl{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #0b909b
+}
+p{
+    font-family: 'Kosugi Maru', sans-serif;
+}
+.card-title{
+    font-family: 'Kosugi Maru', sans-serif;
+}

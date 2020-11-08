@@ -1,0 +1,93 @@
+body {
+    margin: 0px;
+}
+header{
+    background-color: whitesmoke;
+    height: 60px;
+}
+header h1 {
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+footer {
+    background-color: black;
+}
+footer p{
+    color: white;
+    text-align:center;
+}
+#BanHome{
+    height: 1000px;
+}
+#BanId{
+    width: 600px;
+    margin: auto;
+    position: relative; top: 50px;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+#BanId h1{
+    color: red;
+    position: relative; left: 10px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#BanId p{
+    color: red;
+    position: relative; left: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#BanRemove{
+    width: 600px;
+    margin: auto;
+    position: relative; top: 80px;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+#BanRemove h1{
+    position: relative; left: 10px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#BanRemove p{
+    position: relative; left: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#Baninfo{
+    width: 600px;
+    margin: auto;
+    position: relative; top: 110px;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+#Baninfo h1{
+    position: relative; left: 10px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#Baninfo p{
+    position: relative; left: 20px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#Bang{
+    width: 660px;
+    margin: auto;
+    position: relative; top: 110px;
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+}
+#t{
+    text-decoration: none;
+    color: #000;
+}
+a{
+    text-decoration: none;
+}
+#lol{
+    width: 600px;
+    margin: auto;
+    position: relative; top: 150px;
+    background-color: azure;
+}

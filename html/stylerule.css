@@ -1,0 +1,58 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: black;
+}
+
+.rule{
+  padding: 0.5em;/*文字周りの余白*/
+  color: #494949;/*文字色*/
+  background: #fffaf4;/*背景色*/
+  border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+  font-family: 'Quicksand', sans-serif;
+}
+.rule{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.incl{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #d66262
+}
+.no{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.viol {
+  position: relative;
+  padding: 0.25em 0;
+  color: maroon;
+}
+.viol:after {
+  content: "";
+  display: block;
+  height: 4px;
+  background: -webkit-linear-gradient(to right, rgb(230, 90, 90), transparent);
+  background: linear-gradient(to right, rgb(230, 90, 90), transparent);
+}
+h4 h5{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.punish{
+    color: blue;
+}
+.whapun{
+    color: gray;
+}
+.panish{
+    background-color: #e2e2e2;
+}

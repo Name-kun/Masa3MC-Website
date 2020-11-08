@@ -1,0 +1,15 @@
+.main{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.card-title{
+    font-family: 'Kosugi Maru', sans-serif;
+}
+.card-text{
+    font-family: 'Kosugi Maru', sans-serif;
+}
+h2{
+    font-family: 'Quicksand', sans-serif;
+}

@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+}
+header{
+    background-color: whitesmoke;
+    height: 60px;
+}
+header h1 {
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+header h1 a{
+    text-decoration: none;
+    color: black;
+}
+footer {
+    position: relative; top: 100px;
+    background-color: black;
+}
+footer p{
+    color: white;
+    text-align:center;
+}
+.bpa{
+    text-decoration: none;
+    color: black;
+}
+#bans{
+    position: relative; top: 50px;
+    margin: auto;
+    width: 650px;
+    height: auto;
+    background-color: #f8f8f8;
+    border: solid 1px;
+    border-radius: 10px;
+}
+#bans h2{
+    position: relative; left: 20px;
+}
+.bp{
+
+    margin: auto;
+    border: solid 1px;
+    border-radius: 10px;
+    width: 600px;
+    background-color: #ffffff;
+}
+.bp p{
+    position: relative; left: 20px;
+}
+.imgs{
+    position: relative; left: 50px;
+    border: solid 1px;
+}

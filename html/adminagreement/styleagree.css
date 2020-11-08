@@ -1,0 +1,41 @@
+.main{
+    margin: auto;
+    width: 70%;
+}
+h1{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.midasi {
+  padding: 0.5em;/*文字周りの余白*/
+  color: #494949;/*文字色*/
+  background: #f7fff4;/*背景色*/
+  border-left: solid 5px #43e368;/*左線（実線 太さ 色）*/
+}
+h4{
+    font-family: 'Kosugi Maru' , sans-serif;
+}
+p{
+   font-family: 'Kosugi Maru' , sans-serif; 
+}
+.box11{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #43e368;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+.ban {
+  padding: 0.5em;/*文字周りの余白*/
+  color: #494949;/*文字色*/
+  background: #fffcf4;/*背景色*/
+  border-left: solid 5px #ffd155;/*左線（実線 太さ 色）*/
+}
+.box11ban{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #ffd155;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
